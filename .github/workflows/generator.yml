@@ -33,7 +33,7 @@ jobs:
           pip install requests
 
       - name: Run Playlist Generation Script
-        run: python generate_playlists.py
+        run: python generator.py
 
       - name: Commit and Push Changes
         run: |
