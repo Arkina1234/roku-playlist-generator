@@ -140,7 +140,7 @@ def generate_roku_playlist(sort='chno'):
         output_lines.append(extinf)
         output_lines.append(stream_url + '\n')
 
-    write_m3u_file("roku_all.m3u", "".join(output_lines))
+    write_m3u_file("roku.m3u", "".join(output_lines))
 
 # Example usage
 if __name__ == "__main__":
