@@ -24,6 +24,7 @@ def format_extinf(channel_id, tvg_id, tvg_chno, tvg_name, tvg_logo, group_title,
 
 def get_roku_stream_enhanced(channel_id):
     """Gets the stream URL for a Roku channel."""
+    # Create a session to handle cookies
     session = requests.Session()
     
     # Add common headers to mimic a real browser
@@ -35,6 +36,7 @@ def get_roku_stream_enhanced(channel_id):
         "Referer": "https://therokuchannel.roku.com/",
     })
     
+    # Get CSRF token and playId to prepare playback request with enhanced headers
     try:
         csrf_response = session.get("https://therokuchannel.roku.com/api/v1/csrf")
         csrf_response.raise_for_status()
@@ -61,6 +63,7 @@ def get_roku_stream_enhanced(channel_id):
             "providerId": "rokuavod"
         }
 
+        # Make playback request
         playback_response = session.post(
             "https://therokuchannel.roku.com/api/v3/playback",
             headers=headers,
@@ -78,9 +81,11 @@ def get_roku_stream_enhanced(channel_id):
         playback_response.raise_for_status()
         playback_data = playback_response.json()
 
+        # Transform the URL
         if "url" in playback_data:
             original_url = playback_data["url"]
 
+            # Replace the domain and path as specified and remove all query parameters
             if "https://osm.sr.roku.com/osm/v1/hls/master/" in original_url:
                 transformed_url = original_url.replace(
                     "https://osm.sr.roku.com/osm/v1/hls/master/",
