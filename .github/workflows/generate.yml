@@ -9,8 +9,8 @@ on:
     branches:
       - main # Optional: Run when the script itself is updated on the main branch
     paths:
-      - 'generator.py'
-      - '.github/workflows/generator.yml'
+      - 'generate.py'
+      - '.github/workflows/generate.yml'
 
 jobs:
   build-playlists:
@@ -33,7 +33,7 @@ jobs:
           pip install requests
 
       - name: Run Playlist Generation Script
-        run: python generator.py
+        run: python generate.py
 
       - name: Commit and Push Changes
         run: |
