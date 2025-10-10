@@ -133,7 +133,7 @@ def write_m3u_file(filename, content):
         logging.error(f"Error writing file {filename}: {e}")
 
 
-def generate_roku_playlist(sort="name"):
+def generate_roku_playlist(sort="chno"):
     """Generates M3U playlist for Roku."""
     ROKU_URL = "https://i.mjh.nz/Roku/.channels.json" 
     EPG_URL = "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml"
@@ -176,7 +176,7 @@ def generate_roku_playlist(sort="name"):
             output_lines.append(extinf)
             output_lines.append(stream_url + "\n")
 
-    write_m3u_file("roku_all.m3u", "".join(output_lines))
+    write_m3u_file("roku.m3u", "".join(output_lines))
 
 
 # Example usage
