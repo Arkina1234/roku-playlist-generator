@@ -89,7 +89,7 @@ def get_roku_stream_enhanced(channel_id):
             if "https://osm.sr.roku.com/osm/v1/hls/master/" in original_url:
                 transformed_url = original_url.replace(
                     "https://osm.sr.roku.com/osm/v1/hls/master/",
-                    "https://aka-live491.delivery.roku.com/"
+                    "https://aka-live1050.delivery.roku.com/"
                 ).replace("/live.m3u8", "/t2-origin/out/v1/live.m3u8")
 
                 transformed_url = transformed_url.split('?')[0]
