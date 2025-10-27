@@ -15,10 +15,10 @@ def format_extinf(channel_id, tvg_id, tvg_chno, tvg_name, tvg_logo, group_title,
     return (f"#EXTINF:-1 "
             f"channel-id=\"{channel_id}\" "
             f"tvg-id=\"{tvg_id}\" "
-            f"tvg-chno=\"{chno_str}\" "
-            f"tvg-name=\"{sanitized_tvg_name}\" "
-            f"tvg-logo=\"{tvg_logo}\" "
-            f"group-title=\"{sanitized_group_title}\","
+            f"tvg-chno=\"\" "
+            f"tvg-name=\"\" "
+            f"tvg-logo=\"\" "
+            f"group-title=\"\","
             f"{sanitized_display_name}\n")
 
 
