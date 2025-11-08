@@ -245,8 +245,6 @@ https://aka-live1050.delivery.roku.com/8db07f63-7566-43a6-b7cb-3f839c2cda06/t2-o
 https://aka-live1050.delivery.roku.com/6d1019f7-7a46-480e-8d97-bf321784851c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="a96f9c338b3e5ab29ec3b436c01c84da" tvg-id="a96f9c338b3e5ab29ec3b436c01c84da" tvg-chno="" tvg-name="" tvg-logo="" group-title="",America's Test Kitchen
 https://aka-live1050.delivery.roku.com/7826c27f-e65e-40d3-89cc-a62e13a407c8/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="bab0626ab5655e569790befb4522806a" tvg-id="bab0626ab5655e569790befb4522806a" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Bon Appetit
-https://aka-live1050.delivery.roku.com/52ab0fc7-211a-41f5-b78f-d9556eb36bcd/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="7e9fe2b4c7ba5869af6d60adbf4b7c86" tvg-id="7e9fe2b4c7ba5869af6d60adbf4b7c86" tvg-chno="" tvg-name="" tvg-logo="" group-title="",This Old House
 https://aka-live1050.delivery.roku.com/a110bd45-d80a-4201-a0bf-8d18f0d54141/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="c7825e03df4a5bf4bdc87d65b7e3cdbb" tvg-id="c7825e03df4a5bf4bdc87d65b7e3cdbb" tvg-chno="" tvg-name="" tvg-logo="" group-title="",This Old House Classic
@@ -383,8 +381,6 @@ https://aka-live1050.delivery.roku.com/783ca1cc-309b-4f08-aa3b-295787f4ee9d/t2-o
 https://aka-live1050.delivery.roku.com/3e9ddbb2-8be9-474f-a855-d86d1e86fe4c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="a7a15769f0275c0ea9b2064b95637cfd" tvg-id="a7a15769f0275c0ea9b2064b95637cfd" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Real Disaster Channel
 https://aka-live1050.delivery.roku.com/8eab6106-d312-44c9-b749-32dc783a795b/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="363301aa078e555ebd034290488bc9cf" tvg-id="363301aa078e555ebd034290488bc9cf" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Cheaters
-https://aka-live1050.delivery.roku.com/4c3831b8-6e01-4637-9c67-bf3539e2de05/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="6d4ae9d9d0df5122a0811cff961b24b2" tvg-id="6d4ae9d9d0df5122a0811cff961b24b2" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Best of Dr. Phil
 https://aka-live1050.delivery.roku.com/5a034d3b-8510-4d0c-9b3b-960e6fb40d12/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="d216c2141a835cfcbe34a7d1b7d2e078" tvg-id="d216c2141a835cfcbe34a7d1b7d2e078" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Nosey
@@ -463,8 +459,6 @@ https://aka-live1050.delivery.roku.com/75fe44b4-f721-4847-b06b-623cb4135f02/t2-o
 https://aka-live1050.delivery.roku.com/7373a18f-b3e9-489b-af6c-abf6f226e159/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="4f628a666da552d7a9ea9157e079d56b" tvg-id="4f628a666da552d7a9ea9157e079d56b" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Just for Laughs Gags
 https://aka-live1050.delivery.roku.com/fac576ef-0c1d-4675-91cc-47b2badfae40/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="2b54188672a6acb8d3e4c6b9e71a3a7c" tvg-id="2b54188672a6acb8d3e4c6b9e71a3a7c" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Animation+
-https://aka-live1050.delivery.roku.com/bf285a58-b9ac-457c-ac7d-cf7b207f3140/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="0af429c36c6b517e8df2025e809b3964" tvg-id="0af429c36c6b517e8df2025e809b3964" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Estrella News
 https://aka-live1050.delivery.roku.com/3eeba16d-cbe3-422c-b880-0c52d90b1058/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="5a28fbf15c135b51b3638e8bd02d6577" tvg-id="5a28fbf15c135b51b3638e8bd02d6577" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Noticias Univision 24/7
@@ -665,3 +659,7 @@ https://aka-live1050.delivery.roku.com/6cf6f0d1-6a6c-470d-b894-d7302c15c901/t2-o
 https://aka-live1050.delivery.roku.com/103168c1-6158-4a65-870a-d940dd1c59c9/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="e8f8972f377a598590592ecd079e7cc4" tvg-id="e8f8972f377a598590592ecd079e7cc4" tvg-chno="" tvg-name="" tvg-logo="" group-title="",First Alert 4 St. Louis
 https://aka-live1050.delivery.roku.com/6ae29a08-5a60-4055-a976-5acc1a8ff724/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="d53b1fb8c41f574387cde82d084515ea" tvg-id="d53b1fb8c41f574387cde82d084515ea" tvg-chno="" tvg-name="" tvg-logo="" group-title="",WSMV 4 News
+https://aka-live1050.delivery.roku.com/baf4f0e7-32fd-4577-9e1e-cbbe03d8c130/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="307cbde3d30957828ff68b3b979d6958" tvg-id="307cbde3d30957828ff68b3b979d6958" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Channel 3 Eyewitness News
+https://aka-live1050.delivery.roku.com/292a065a-3606-4340-a2e2-cdbe812d1bb0/t2-origin/out/v1/live.m3u8
