@@ -40,12 +40,12 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           # Check if there are any changes in the playlists directory
-          if git diff --quiet --exit-code playlists/; then
+          if git diff --quiet --exit-code roku.m3u; then
             echo "No changes detected in playlists."
             exit 0 # Exit successfully, no commit needed
           fi
           echo "Changes detected, committing updates..."
-          git add roku.m3u # Stage only changes in the playlists directory
+          git add --force roku.m3u # Stage only changes in the playlists
           git commit -m "Update M3U playlists [skip ci]" # [skip ci] prevents triggering another run if 'push' is enabled
           # Retry push with delay in case of transient errors or race conditions
           n=0
