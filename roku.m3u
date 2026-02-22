@@ -507,8 +507,6 @@ https://aka-live1050.delivery.roku.com/83e3226a-8835-4fe4-b3a1-cd7f0e5a3a22/t2-o
 https://aka-live1050.delivery.roku.com/ae801d5f-8ae0-43d3-ad4b-91523898849b/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="46eb1feb60da2bc45bee66f313b564de" tvg-id="46eb1feb60da2bc45bee66f313b564de" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Fuerza Informativa Azteca
 https://aka-live1050.delivery.roku.com/0005e38f-fc77-42ad-a187-841bcd6b4637/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="34beeb8efcb656f08d91298bb94e1815" tvg-id="34beeb8efcb656f08d91298bb94e1815" tvg-chno="" tvg-name="" tvg-logo="" group-title="",WAPA+
-https://aka-live1050.delivery.roku.com/4469d628-e8b8-48b4-a951-bc10aa49d968/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="a9aae4e62e6fd8e401033cd14ceeaaa2" tvg-id="a9aae4e62e6fd8e401033cd14ceeaaa2" tvg-chno="" tvg-name="" tvg-logo="" group-title="",RCN Noticias
 https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="5cbb91d07dbd5b92ae3ef3e37be7f2ce" tvg-id="5cbb91d07dbd5b92ae3ef3e37be7f2ce" tvg-chno="" tvg-name="" tvg-logo="" group-title="",C4 en Alerta
@@ -663,7 +661,7 @@ https://aka-live1050.delivery.roku.com/e315a33c-9101-4e32-b6ee-34fdc2988e17/t2-o
 https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="73991aa61267bcc005a855c7b6303afc" tvg-id="73991aa61267bcc005a855c7b6303afc" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Stingray Cityscapes
 https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="0d5283959d3a59bf87411e7077fd9e58" tvg-id="0d5283959d3a59bf87411e7077fd9e58" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Vevo Latino
-https://aka-live1050.delivery.roku.com/473ec9f9-6dad-4a92-86e9-215c5fa50602/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="6be3083b8ec2508495684e5087f8f86a" tvg-id="6be3083b8ec2508495684e5087f8f86a" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Vevo R&B
-https://aka-live1050.delivery.roku.com/395d8b66-d246-4bf2-87b6-89a5dc1084ed/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="d90a57a66251fdda967c2e2b9e6aa25d" tvg-id="d90a57a66251fdda967c2e2b9e6aa25d" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Stingray Free Riding
+https://aka-live1050.delivery.roku.com/1a63d26b-e049-418f-9ba0-3dc6f89382b3/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="b1ad1b681f5d5b2eb071445b284336ff" tvg-id="b1ad1b681f5d5b2eb071445b284336ff" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FreeTV Banda
+https://aka-live1050.delivery.roku.com/e5ee94e3-a764-40f7-8c38-dd31ea235d4b/t2-origin/out/v1/live.m3u8
