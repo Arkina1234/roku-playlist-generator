@@ -41,8 +41,6 @@ https://aka-live1050.delivery.roku.com/55916340-9c06-4cae-812c-a5d651009307/t2-o
 https://aka-live1050.delivery.roku.com/b519e4dd-1677-44b6-81ac-c7be7018d913/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="51dea927355343df5a6f26545d07adc8" tvg-id="51dea927355343df5a6f26545d07adc8" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Swerve Women’s Sports
 https://aka-live1050.delivery.roku.com/e336313c-5db7-455c-b8de-a5bc1f93447e/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="f17c82792f7cab26596e1a84ebc82a8b" tvg-id="f17c82792f7cab26596e1a84ebc82a8b" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Team Liquid
-https://aka-live1050.delivery.roku.com/e2a5c1ed-5539-4f99-be9f-daf69b77e579/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="9210a8fbeab66e9d1ce20c187804ee7d" tvg-id="9210a8fbeab66e9d1ce20c187804ee7d" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Bassmaster
 https://aka-live1050.delivery.roku.com/af838053-2a5b-4f25-92cd-4fae73ee7b64/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="e46ac8cd0299b4c5f1403d999a432561" tvg-id="e46ac8cd0299b4c5f1403d999a432561" tvg-chno="" tvg-name="" tvg-logo="" group-title="",PFL MMA
@@ -451,6 +449,8 @@ https://aka-live1050.delivery.roku.com/306d4040-c2c6-4102-8922-7eb23729bbe8/t2-o
 https://aka-live1050.delivery.roku.com/9ab42dd8-a983-478a-92d9-4de939a903a2/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="4b236d75ad3e5831a1707f53e41beede" tvg-id="4b236d75ad3e5831a1707f53e41beede" tvg-chno="" tvg-name="" tvg-logo="" group-title="",The Red Green Channel
 https://aka-live1050.delivery.roku.com/0f30972e-a469-42ff-a8aa-c70e23af5881/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="bc68164868385873a0f2b1c649fa2495" tvg-id="bc68164868385873a0f2b1c649fa2495" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Comedy Dynamics
+https://aka-live1050.delivery.roku.com/36adb737-0d44-4942-976a-4b940ac3ae3f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="20a6aa8be0f3aff9d50f3daf3dfe6ba8" tvg-id="20a6aa8be0f3aff9d50f3daf3dfe6ba8" tvg-chno="" tvg-name="" tvg-logo="" group-title="",America's Funniest Home Videos
 https://aka-live1050.delivery.roku.com/3eb67e5f-890a-44d5-86a6-2474fa36d4ff/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="753bb09547f701d2e6d0f66bee0ee589" tvg-id="753bb09547f701d2e6d0f66bee0ee589" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Portlandia IFC
@@ -644,7 +644,7 @@ https://aka-live1050.delivery.roku.com/3facddc6-460f-4902-861c-0949fca8e3b6/t2-o
 #EXTINF:-1 channel-id="0d5283959d3a59bf87411e7077fd9e58" tvg-id="0d5283959d3a59bf87411e7077fd9e58" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Vevo Latino
 https://aka-live1050.delivery.roku.com/473ec9f9-6dad-4a92-86e9-215c5fa50602/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="8e04e4c0e2cd5fe49b087a6ce5fd0d91" tvg-id="8e04e4c0e2cd5fe49b087a6ce5fd0d91" tvg-chno="" tvg-name="" tvg-logo="" group-title="",TikTok Radio
-https://aka-live1050.delivery.roku.com/466146ab-c01d-4959-82dd-7978f7ceada7/t2-origin/out/v1/live.m3u8
+https://aka-live1050.delivery.roku.com/349d70a5-a6ec-4dd8-a903-de5b63917ba7/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="e50a8f06d3245c95a4e250dc5c33c2be" tvg-id="e50a8f06d3245c95a4e250dc5c33c2be" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Vevo Pop
 https://aka-live1050.delivery.roku.com/2436b19a-5fb6-4245-99f9-ba3dc33af3c0/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="6be3083b8ec2508495684e5087f8f86a" tvg-id="6be3083b8ec2508495684e5087f8f86a" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Vevo R&B
@@ -661,41 +661,5 @@ https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-o
 https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="fd8d765f98605129914b581147e7e8b2" tvg-id="fd8d765f98605129914b581147e7e8b2" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Vevo '80s
 https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="e5dcad2b1c055d4d86a9f7bba9438da7" tvg-id="e5dcad2b1c055d4d86a9f7bba9438da7" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Vevo '70s
-https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-chno="" tvg-name="" tvg-logo="" group-title="",News 12 New York
-https://aka-live1050.delivery.roku.com/e7654bde-8f17-48cf-b5a4-73e5072629c5/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="1672824c4fd55e5dbfcb57f147910270" tvg-id="1672824c4fd55e5dbfcb57f147910270" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Atlanta News First
 https://aka-live1050.delivery.roku.com/eeb4a526-4b3b-4c33-a9e9-b481f5358dec/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="ec2faed50af3503e934f0c342a7952fe" tvg-id="ec2faed50af3503e934f0c342a7952fe" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Arizona's Family
-https://aka-live1050.delivery.roku.com/4f9e883b-309e-4957-8f28-a98d21bb6b54/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ABC7 Sarasota
-https://aka-live1050.delivery.roku.com/9c7ca2ba-ded2-437e-b542-9d7b09e68f90/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="d0d9af56b7735c318b66afe21089d028" tvg-id="d0d9af56b7735c318b66afe21089d028" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Cleveland 19 News Plus
-https://aka-live1050.delivery.roku.com/ed666203-17c5-4378-b730-0f2b9e63f35e/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-chno="" tvg-name="" tvg-logo="" group-title="",KPTV FOX 12 Oregon News
-https://aka-live1050.delivery.roku.com/4438f39d-54a7-4b30-905c-37a45d80fb51/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="bf7ee95e6a905222a1d24174120cc106" tvg-id="bf7ee95e6a905222a1d24174120cc106" tvg-chno="" tvg-name="" tvg-logo="" group-title="",WBTV News 3
-https://aka-live1050.delivery.roku.com/c3096ddd-1604-43ed-a60d-045da435a6f5/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="e8f8972f377a598590592ecd079e7cc4" tvg-id="e8f8972f377a598590592ecd079e7cc4" tvg-chno="" tvg-name="" tvg-logo="" group-title="",First Alert 4 St. Louis
-https://aka-live1050.delivery.roku.com/d62a674b-9c37-48e0-ae54-1a159e5869ee/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="d53b1fb8c41f574387cde82d084515ea" tvg-id="d53b1fb8c41f574387cde82d084515ea" tvg-chno="" tvg-name="" tvg-logo="" group-title="",WSMV 4 News
-https://aka-live1050.delivery.roku.com/407669f5-ff1f-4cd7-86fe-2d15b4f7b531/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="307cbde3d30957828ff68b3b979d6958" tvg-id="307cbde3d30957828ff68b3b979d6958" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Channel 3 Eyewitness News
-https://aka-live1050.delivery.roku.com/9a8e6740-3401-4b55-b6c4-e190f9a7a256/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="0b285303dd2fbf7a851db13ce53d5d1f" tvg-id="0b285303dd2fbf7a851db13ce53d5d1f" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Local Now Las Vegas
-https://aka-live1050.delivery.roku.com/bc0a04c1-088d-4fd4-a68e-b7ff9330a80f/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="58e6bfd1c4819af32ead547dbc82e1f8" tvg-id="58e6bfd1c4819af32ead547dbc82e1f8" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FloRacing 24/7
-https://aka-live1050.delivery.roku.com/c74666f9-9138-4fe1-abe2-f0f8d4a63ff6/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="4152241b9d223469e331491b1afad685" tvg-id="4152241b9d223469e331491b1afad685" tvg-chno="" tvg-name="" tvg-logo="" group-title="",World Surf League
-https://aka-live1050.delivery.roku.com/35c71dd4-82bc-470a-9d8d-6a4066abc1ae/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="8346c21c4b5b032cca68a74933e7642b" tvg-id="8346c21c4b5b032cca68a74933e7642b" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Watch AEW
-https://aka-live1050.delivery.roku.com/6fb14dd8-e43e-47cd-b20b-2a2dbc584f1d/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="a368317a32af553793c90d3ce1a09afa" tvg-id="a368317a32af553793c90d3ce1a09afa" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Property Brothers
-https://aka-live1050.delivery.roku.com/95a5fb40-5b83-4c68-86b5-ab78773933c4/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="ce9099ad242b5c81c43d513c20d343f7" tvg-id="ce9099ad242b5c81c43d513c20d343f7" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Game & Fish TV
-https://aka-live1050.delivery.roku.com/1acf5bc1-c6dc-4218-828d-527ffa94bfe5/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="fe7b038fa20279cab55f8625ebe31d02" tvg-id="fe7b038fa20279cab55f8625ebe31d02" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Nomad Travel
-https://aka-live1050.delivery.roku.com/f4e7c9a1-9afd-42d3-971c-b3b786a08cfb/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="17059eafd4718bca691ba93aacb3fa8d" tvg-id="17059eafd4718bca691ba93aacb3fa8d" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Stingray Hooked
-https://aka-live1050.delivery.roku.com/ec6b94c6-f3fa-4c97-9b8a-6f59a93d4041/t2-origin/out/v1/live.m3u8
