@@ -401,7 +401,7 @@ class RokuChannelExtractor:
                             f'tvg-chno="{channel["display_number"]}" '
                             f'tvg-name="" '
                             f'tvg-logo="" '
-                            f'group-title="Roku",{channel["title"]}\n'
+                            f'group-title="",{channel["title"]}\n'
                         )
                         
                         # Add KODIPROP for DASH with Widevine
