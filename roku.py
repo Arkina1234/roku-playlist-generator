@@ -9,7 +9,7 @@ class RokuChannelExtractor:
     def __init__(self):
         self.api_url = 'https://therokuchannel.roku.com/api/v2/homescreen/content/'
         self.playback_url = 'https://therokuchannel.roku.com/api/v3/playback'
-        self.epg_url = './epg.json'
+        self.epg_url = 'https://therokuchannel.roku.com/api/v2/epg'
         self.csrf_url = 'https://therokuchannel.roku.com/api/v1/csrf'
         self.base_url = "https://content.sr.roku.com/content/v1/roku-trc/"
         
