@@ -5,12 +5,12 @@ on:
     # Runs every day at 4:00 AM UTC
     - cron: '0 4 * * *'
   workflow_dispatch: # Allows manual triggering from the Actions tab
-  push:
-    branches:
-      - main # Optional: Run when the script itself is updated on the main branch
-    paths:
-      - 'generate.py'
-      - '.github/workflows/generate.yml'
+  # push:
+    # branches:
+      # - main # Optional: Run when the script itself is updated on the main branch
+    # paths:
+      # - 'generate.py'
+      # - '.github/workflows/generate.yml'
 
 jobs:
   build-playlists:
@@ -33,7 +33,7 @@ jobs:
           pip install requests
 
       - name: Run Playlist Generation Script
-        run: python generate.py
+        run: python generate.py && python roku.py
 
       - name: Commit and Push Changes
         run: |
